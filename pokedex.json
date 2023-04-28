@@ -1,0 +1,74 @@
+{
+ "carapuce": {
+  "nom": "carapuce",
+  "type": "Eau",
+  "niveau": 1,
+  "puissance_attaque": 30,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "bulbizarre": {
+  "nom": "bulbizarre",
+  "type": "Terre",
+  "niveau": 1,
+  "puissance_attaque": 30,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "salameche": {
+  "nom": "salameche",
+  "type": "Feu",
+  "niveau": 1,
+  "puissance_attaque": 30,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "rondoudou": {
+  "nom": "rondoudou",
+  "type": "Normal",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "dracaufeu": {
+  "nom": "dracaufeu",
+  "type": "Feu",
+  "niveau": 3,
+  "puissance_attaque": 100,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "reptincel": {
+  "nom": "reptincel",
+  "type": "Feu",
+  "niveau": 2,
+  "puissance_attaque": 60,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "carabaffe": {
+  "nom": "carabaffe",
+  "type": "Eau",
+  "niveau": 2,
+  "puissance_attaque": 50,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "tortank": {
+  "nom": "tortank",
+  "type": "Eau",
+  "niveau": 3,
+  "puissance_attaque": 90,
+  "defense": 0,
+  "points_de_vie": 100
+ },
+ "roucoule": {
+  "nom": "roucoule",
+  "type": "Normal",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "defense": 0,
+  "points_de_vie": 100
+ }
+}
